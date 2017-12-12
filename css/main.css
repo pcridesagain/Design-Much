@@ -37,6 +37,13 @@ a:hover{
     text-decoration: underline;
 }
 
+a.twitter{
+    color: #fff;
+}
+a.twitter:hover{
+    text-decoration: none;
+}
+
 p.logo1{
     font-size: 22px;
     font-weight: 900;
