@@ -271,6 +271,11 @@ ul.horizontal-list {
         display: inline;
     }
 
+.podcast{
+    width: 70%;
+    margin: 32px auto;
+}
+
 
 
 
