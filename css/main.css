@@ -37,10 +37,10 @@ a:hover{
     text-decoration: underline;
 }
 
-a.twitter{
+.twitter a{
     color: #fff;
 }
-a.twitter:hover{
+.twitter a:hover{
     text-decoration: none;
 }
 
