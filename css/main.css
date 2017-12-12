@@ -235,6 +235,7 @@ p.col-right{
 }
 .tabs a.active{
     border-bottom: 4px solid #000;
+    border-radius: 4px;
     opacity: 1;
 }
 .tabs a.active:hover{
